@@ -1,6 +1,6 @@
 ![Anuj — full-stack developer, real-time systems, local AI](assets/banner.svg)
 
-# Anuj
+# Real-time products, local-first tools, and interfaces that feel considered
 
 **Full-stack developer — TypeScript first, product-minded, comfortable down to the metal.**
 
