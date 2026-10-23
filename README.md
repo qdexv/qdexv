@@ -33,7 +33,7 @@ My favourite work is the part users never notice — sync protocols, streak engi
 | **[Verdant](https://github.com/qdexv/verdant)** | Gamified habit tracker with schedule-aware streaks, a GitHub-style contribution forest and 17 milestone achievements. | React · Vite · Tailwind · Express · cron · MongoDB Atlas |
 | **[LinkBio](https://github.com/qdexv/link-in-bio)** | Local-first link-in-bio creator: zero-config embedded SQLite, drag-and-drop page builder, themes and vector QR export — no cloud database. | Next.js 16 · TypeScript · node:sqlite |
 
-**Also worth a look** · [stillform](https://github.com/qdexv/stillform), an editorial cinematic archive with kinetic typography and scroll-driven storytelling · [pdf-craft](https://github.com/qdexv/pdf-craft), a browser PDF editor with no feature gates ([live](https://pdf-craft-qvs4.onrender.com/)) · [telegram-vault-bot](https://github.com/qdexv/telegram-vault-bot), an encrypted file-vault bot on Postgres.
+**Also worth a look** · [stillform](https://github.com/qdexv/stillform), an editorial cinematic archive with kinetic typography and scroll-driven storytelling · [pdf-craft](https://github.com/qdexv/pdf-craft), a browser PDF editor with no feature gates · [telegram-vault-bot](https://github.com/qdexv/telegram-vault-bot), an encrypted file-vault bot on Postgres.
 
 **IcoDeck** — an open-source icon package for developers, built to drop cleanly into different frameworks and package managers (npm: `icodeck`).
 
