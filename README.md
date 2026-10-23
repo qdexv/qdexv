@@ -1,115 +1,127 @@
-![Anuj — full-stack developer, real-time systems, local AI](assets/banner.svg)
+iv align="center">
 
-# Real-time products, local-first tools, and interfaces that feel considered
+Hey, I'm Anuj 👋
+Frontend Developer · Full-Stack Developer in Progress
+I build modern, responsive web experiences with a focus on clean UI, thoughtful interactions, and maintainable code.
 
-**Full-stack developer — TypeScript first, product-minded, comfortable down to the metal.**
+<a href="https://github.com/qdexv">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-I build web applications end to end: real-time multiplayer products, local-first tools, open-source packages, and frontends that lean hard on motion and craft. Most of what you see here started as a problem I wanted to solve properly rather than a tutorial I finished.
+</div>
 
-My favourite work is the part users never notice — sync protocols, streak engines, ranking systems, query layering, and animation timing that has to feel instant. When a browser isn't enough, I drop into C++ and write the kernels myself.
+About Me
+I'm a developer who enjoys turning ideas into useful, polished digital products. I care about more than making a page work: I want it to feel intuitive, look intentional, perform well, and remain easy to maintain.
+- 💻 Focused on frontend and full-stack web development
+- ⚛️ Building with JavaScript, React, and modern web tools
+- 🎨 Interested in UI/UX, responsive layouts, animations, and visual details
+- 🧩 Exploring the MERN stack, APIs, deployment, and DevOps fundamentals
+- 🛠️ Learning by building practical projects and improving them through iteration
+- 🌱 Always working to write cleaner code and become a stronger problem-solver
+I believe the best way to learn development is to build real things, understand the trade-offs, and keep improving them.
 
+Tech Stack
+Languages
 <p>
-  <img src="https://img.shields.io/badge/10_public_projects-181717?style=flat-square&logo=github&logoColor=white" alt="10 public projects">
-  <img src="https://img.shields.io/badge/building_since-Feb_2025-3178C6?style=flat-square&logo=git&logoColor=white" alt="Building since February 2025">
-  <img src="https://img.shields.io/badge/open_to_collaborate-06B6D4?style=flat-square&logo=huggingface&logoColor=white" alt="Open to collaboration">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
-
-### 🛠 Stack
-
+Frontend
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt="C++17">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=ffffff" alt="CSS">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="SQL">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
 </p>
 
+Backend, Data & Tools
 <p>
-  <img src="https://img.shields.io/badge/React_18%2F19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/GSAP%20%2B%20ScrollTrigger-1A1A1A?style=for-the-badge&logo=gsap&logoColor=ffffff" alt="GSAP and ScrollTrigger">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff" alt="Three.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff" alt="Flask">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=ffffff" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/WebSockets-2B3A42?style=for-the-badge" alt="WebSockets">
-</p>
+This list reflects technologies I work with or am exploring. I keep the profile focused on skills relevant to the projects I'm building.
+Featured Projects
+Replace the example links and descriptions below with your real repositories. A small number of strong, documented projects is more convincing than a wall of empty project cards.
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB Atlas">
-  <img src="https://img.shields.io/badge/SQLite%20(node:sqlite)-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite">
-  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=ffffff" alt="Prisma">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 IcoDeck</h3>
+      <p>A developer-focused icon package and showcase website, designed to make discovering and using icons straightforward across different web stacks.</p>
+      <p><strong>Focus:</strong> Developer experience · Package documentation · Web UI</p>
+      <a href="https://github.com/qdexv/ICODECK-REPO">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♟️ Chess Web App</h3>
+      <p>A browser-based chess experience focused on a clean interface, smooth interactions, and a lightweight implementation.</p>
+      <p><strong>Focus:</strong> JavaScript · Game logic · Responsive UI</p>
+      <a href="https://github.com/qdexv/CHESS-REPO">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ Focus Zone</h3>
+      <p>A study-focus concept that helps users reduce distractions, with an immersive travel-inspired interface and session flow.</p>
+      <p><strong>Focus:</strong> Product design · UI interactions · Productivity</p>
+      <a href="https://github.com/qdexv/FOCUS-ZONE-REPO">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ Trip Planner</h3>
+      <p>A collaborative trip-planning concept for friends to organize destinations, activities, and travel details in one place.</p>
+      <p><strong>Focus:</strong> React · Full-stack development · Collaboration</p>
+      <a href="https://github.com/qdexv/TRIP-PLANNER-REPO">View repository →</a>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=000000" alt="pnpm">
-  <img src="https://img.shields.io/badge/Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=ffffff" alt="Turborepo">
-  <img src="https://img.shields.io/badge/Playwright-E2574C?style=for-the-badge&logo=playwright&logoColor=ffffff" alt="Playwright">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff" alt="Netlify">
-  <img src="https://img.shields.io/badge/Render-46E9B8?style=for-the-badge&logo=render&logoColor=1F2233" alt="Render">
-</p>
+What I'm Working On
+- Building polished, responsive websites with strong attention to detail
+- Improving my React and JavaScript fundamentals
+- Learning backend architecture, database design, and API development
+- Exploring deployment, automation, and DevOps workflows
+- Practicing accessibility, performance optimization, and maintainable project structure
+GitHub Activity
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Local_LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Local LLMs">
-  <img src="https://img.shields.io/badge/GGUF%20inference-000000?style=for-the-badge" alt="GGUF inference">
-  <img src="https://img.shields.io/badge/AVX2%2B%20FMA%20SIMD-7B61FF?style=for-the-badge" alt="AVX2 and FMA SIMD kernels">
-  <img src="https://img.shields.io/badge/Offline_AI_chatbots-0F172A?style=for-the-badge&logo=ollama&logoColor=ffffff" alt="Offline AI chatbots">
-</p>
+<a href="https://github.com/qdexv">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qdexv&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/qdexv">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdexv&layout=compact&hide_border=true" alt="Most used languages" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdexv&layout=compact&hide_border=true&theme=transparent&card_width=420&langs_count=7" alt="Most used languages">
+<img src="https://streak-stats.demolab.com?user=qdexv&hide_border=true" alt="GitHub contribution streak" />
 
----
+</div>
 
-### 🔭 Selected work
+These cards are provided by third-party services, so they may occasionally be unavailable or rate-limited.
+Beyond the Code
+I enjoy exploring creative web design, cinematic interfaces, animation, and new ways to make digital products feel memorable. I'm especially interested in the intersection of engineering and visual storytelling.
+Let's Connect
+I'm interested in learning from other developers, collaborating on useful projects, and sharing what I build.
+- GitHub: @qdexv
+- LinkedIn: Connect with me
+- Email: YOUR-EMAIL@example.com
+<div align="center">
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[TypeDuel](https://github.com/qdexv/TypeDuel)** | Real-time multiplayer typing races, solo speed drills, ranked 1v1 duels and team lobbies. MIT licensed, with a maintained changelog and security policy. | React 18 · Vite · Socket.IO · Tailwind · TypeScript |
-| **[Math Duel](https://github.com/qdexv/math-duel)** | 60-second mental-math duels with 5-second equations, combo streaks and ELO ranking. Custom WebSocket game engine. | Turborepo · React 19 · Prisma · PostgreSQL |
-| **[ai-local-scratch](https://github.com/qdexv/ai-local-scratch)** | Dependency-free C++17 local LLM inference engine. Runs GGUF Llama-3 transformers entirely on CPU with hand-written AVX2+FMA quantization kernels — no GPU, no Python, no server. | C++17 · AVX2/FMA SIMD · GGUF |
-| **[HabitFlow](https://github.com/qdexv/habit-tracker)** | Full-stack habit-tracking SaaS: JWT + bcrypt auth, streak engine, interactive calendar and analytics dashboards. | Next.js 16 · React 19 · SQLite · Recharts |
-| **[Verdant](https://github.com/qdexv/verdant)** | Gamified habit tracker with schedule-aware streaks, a GitHub-style contribution forest and 17 milestone achievements. | React · Vite · Tailwind · Express · cron · MongoDB Atlas |
-| **[LinkBio](https://github.com/qdexv/link-in-bio)** | Local-first link-in-bio creator: zero-config embedded SQLite, drag-and-drop page builder, themes and vector QR export — no cloud database. | Next.js 16 · TypeScript · node:sqlite |
+Build. Learn. Refine. Repeat.
 
-**Also worth a look** · [stillform](https://github.com/qdexv/stillform), an editorial cinematic archive with kinetic typography and scroll-driven storytelling · [pdf-craft](https://github.com/qdexv/pdf-craft), a browser PDF editor with no feature gates · [telegram-vault-bot](https://github.com/qdexv/telegram-vault-bot), an encrypted file-vault bot on Postgres.
-
-**IcoDeck** — an open-source icon package for developers, built to drop cleanly into different frameworks and package managers (npm: [`icodeck`](https://www.npmjs.com/package/icodeck)).
-
----
-
-### 🎯 What I'm working on
-
-- Making local AI usable without API keys, cloud quotas, or a GPU — the C++ inference engine is the long game here.
-- Turning IcoDeck into something genuinely convenient to adopt across frameworks.
-- Sharpening the boring-but-decisive parts of full-stack work: migrations, auth edge cases, deployment, and observable errors.
-- Pushing web motion further — scroll choreography, 3D scenes, and interfaces that stay smooth under real data.
-
-### 🧭 How I work
-
-I learn by shipping, so prototypes become products instead of staying in a branches folder. I keep dependencies light and reach for the platform when it's enough. I care about the details that make software feel considered — empty states, latency, easing curves, and the difference between code that runs and code someone else can read.
-
-I'm open to collaborating on open-source tools, real-time products, and anything that has to run offline.
-
----
-
-<p>
-  <a href="https://github.com/qdexv"><img src="https://img.shields.io/badge/GitHub-qdexv-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"></a>
-  <a href="https://www.npmjs.com/package/icodeck"><img src="https://img.shields.io/badge/npm-icodeck-CB3837?style=flat-square&logo=npm&logoColor=white" alt="IcoDeck on npm"></a>
-</p>
-
-<i>Build things. Break them properly. Understand why. Repeat.</i>
+<sub>Thanks for stopping by. Explore the repositories, and feel free to share feedback.</sub>
+</div>
