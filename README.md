@@ -1,4 +1,4 @@
-iv align="center">
+div align="center">
 
 Hey, I'm Anuj 👋
 Frontend Developer · Full-Stack Developer in Progress
