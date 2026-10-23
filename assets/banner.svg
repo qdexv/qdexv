@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" width="1600" height="400" role="img" aria-label="Anuj — full-stack developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b16"/>
+      <stop offset="0.55" stop-color="#0d1425"/>
+      <stop offset="1" stop-color="#131c31"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.12" r="0.6">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.86" cy="0.9" r="0.5">
+      <stop offset="0" stop-color="#f472b6" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="400" fill="url(#bg)"/>
+  <rect width="1600" height="400" fill="url(#grid)"/>
+  <rect width="1600" height="400" fill="url(#glow)"/>
+  <rect width="1600" height="400" fill="url(#glow2)"/>
+
+  <g opacity="0.5">
+    <path d="M1180 0 L1600 420" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2"/>
+    <path d="M1260 0 L1680 420" stroke="#818cf8" stroke-opacity="0.14" stroke-width="2"/>
+    <path d="M1340 0 L1760 420" stroke="#f472b6" stroke-opacity="0.1" stroke-width="2"/>
+  </g>
+
+  <rect x="96" y="118" width="118" height="6" rx="3" fill="url(#accent)"/>
+
+  <text x="96" y="222" font-family="'Segoe UI', system-ui, Helvetica, Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="26" fill="#e8eefc">ANUJ</text>
+
+  <text x="100" y="278" font-family="'Segoe UI', system-ui, Helvetica, Arial, sans-serif" font-size="30" font-weight="400" letter-spacing="4" fill="#9fb0cc">Full-stack developer · real-time systems · local AI</text>
+
+  <text x="100" y="332" font-family="'Segoe UI', system-ui, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="3" fill="#5c6f8f">TYPESCRIPT &#183; REACT &#183; NODE &#183; C++ &#183; MOTION</text>
+</svg>
