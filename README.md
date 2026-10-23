@@ -1,127 +1,140 @@
 <div align="center">
 
-Hey, I'm Anuj 👋
-Frontend Developer · Full-Stack Developer in Progress
-I build modern, responsive web experiences with a focus on clean UI, thoughtful interactions, and maintainable code.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:312e81,100:0f172a&text=qdexv&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Building%20ideas%20into%20digital%20experiences&descAlignY=60&descSize=16" width="100%" alt="qdexv profile banner" />
 
-<a href="https://github.com/qdexv">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+### Frontend Developer · Full-Stack Developer in Progress
+
+I build modern web experiences with thoughtful design, smooth interactions, and clean, maintainable code.
+
+<p>
+  <a href="https://github.com/qdexv">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://buymeacoffee.com/qdexv">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20my%20work-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=qdexv&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-About Me
-I'm a developer who enjoys turning ideas into useful, polished digital products. I care about more than making a page work: I want it to feel intuitive, look intentional, perform well, and remain easy to maintain.
-- 💻 Focused on frontend and full-stack web development
-- ⚛️ Building with JavaScript, React, and modern web tools
-- 🎨 Interested in UI/UX, responsive layouts, animations, and visual details
-- 🧩 Exploring the MERN stack, APIs, deployment, and DevOps fundamentals
+---
+
+## About Me
+
+I'm a developer who enjoys turning ideas into useful, polished digital products. I care about how a product looks, how it feels to use, and how well its code holds up as it grows.
+
+- 💻 Focused on **frontend and full-stack web development**
+- ⚛️ Building with **JavaScript, React, and modern web tools**
+- 🎨 Interested in **UI/UX, responsive design, animation, and visual storytelling**
+- 🧩 Exploring **MERN stack development, APIs, databases, and deployment**
 - 🛠️ Learning by building practical projects and improving them through iteration
-- 🌱 Always working to write cleaner code and become a stronger problem-solver
-I believe the best way to learn development is to build real things, understand the trade-offs, and keep improving them.
+- 🌱 Always working toward cleaner code, better accessibility, and stronger problem-solving
 
-Tech Stack
-Languages
+> **My approach:** Build something useful. Make it feel great. Keep refining it.
+
+## Tech Stack
+
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="HTML, CSS, JavaScript, TypeScript and Python" />
 </p>
 
-Frontend
+### Frontend & UI
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma,gsap" alt="React, Vite, Tailwind CSS, Figma and GSAP" />
 </p>
 
-Backend, Data & Tools
+### Backend, Database & Tools
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask,postgres,git,github,vscode" alt="Node.js, Express, MongoDB, Flask, PostgreSQL, Git, GitHub and VS Code" />
 </p>
 
-This list reflects technologies I work with or am exploring. I keep the profile focused on skills relevant to the projects I'm building.
-Featured Projects
-Replace the example links and descriptions below with your real repositories. A small number of strong, documented projects is more convincing than a wall of empty project cards.
+<sub>Some technologies are part of my current learning journey. The goal is to keep building real experience rather than collect logos.</sub>
+
+## Selected Projects
+
+A few concepts and projects I'm building toward. Replace repository links and descriptions with the exact details once each project is published.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 IcoDeck</h3>
-      <p>A developer-focused icon package and showcase website, designed to make discovering and using icons straightforward across different web stacks.</p>
-      <p><strong>Focus:</strong> Developer experience · Package documentation · Web UI</p>
-      <a href="https://github.com/qdexv/ICODECK-REPO">View repository →</a>
+      <h3>✦ IcoDeck</h3>
+      <p>A developer-focused icon package and showcase website designed to make discovering and using icons straightforward across web projects.</p>
+      <p><strong>Focus</strong><br />Package design · Developer experience · Documentation</p>
+      <a href="https://github.com/qdexv">Explore my repositories →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>♟️ Chess Web App</h3>
-      <p>A browser-based chess experience focused on a clean interface, smooth interactions, and a lightweight implementation.</p>
-      <p><strong>Focus:</strong> JavaScript · Game logic · Responsive UI</p>
-      <a href="https://github.com/qdexv/CHESS-REPO">View repository →</a>
+      <h3>♟ Chess Web App</h3>
+      <p>A lightweight browser-based chess experience with a clean interface, responsive layout, and interactive game logic.</p>
+      <p><strong>Focus</strong><br />JavaScript · Game logic · UI engineering</p>
+      <a href="https://github.com/qdexv">Explore my repositories →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ Focus Zone</h3>
-      <p>A study-focus concept that helps users reduce distractions, with an immersive travel-inspired interface and session flow.</p>
-      <p><strong>Focus:</strong> Product design · UI interactions · Productivity</p>
-      <a href="https://github.com/qdexv/FOCUS-ZONE-REPO">View repository →</a>
+      <h3>✈ Focus Zone</h3>
+      <p>A productivity concept designed to help people focus, with a travel-inspired visual direction and immersive session flow.</p>
+      <p><strong>Focus</strong><br />Product design · Interaction design · Productivity</p>
+      <a href="https://github.com/qdexv">Explore my repositories →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🗺️ Trip Planner</h3>
+      <h3>⌁ Trip Planner</h3>
       <p>A collaborative trip-planning concept for friends to organize destinations, activities, and travel details in one place.</p>
-      <p><strong>Focus:</strong> React · Full-stack development · Collaboration</p>
-      <a href="https://github.com/qdexv/TRIP-PLANNER-REPO">View repository →</a>
+      <p><strong>Focus</strong><br />React · Full-stack development · Collaboration</p>
+      <a href="https://github.com/qdexv">Explore my repositories →</a>
     </td>
   </tr>
 </table>
 
-What I'm Working On
+## Current Focus
+
 - Building polished, responsive websites with strong attention to detail
-- Improving my React and JavaScript fundamentals
+- Strengthening JavaScript, React, and TypeScript fundamentals
 - Learning backend architecture, database design, and API development
 - Exploring deployment, automation, and DevOps workflows
-- Practicing accessibility, performance optimization, and maintainable project structure
-GitHub Activity
+- Improving accessibility, performance, and maintainable project structure
+
+## GitHub Overview
+
 <div align="center">
 
 <a href="https://github.com/qdexv">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qdexv&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qdexv&show_icons=true&hide_border=true&rank_icon=github" alt="qdexv GitHub statistics" />
 </a>
 <a href="https://github.com/qdexv">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdexv&layout=compact&hide_border=true" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdexv&layout=compact&hide_border=true" alt="Most used languages" />
 </a>
 
-<img src="https://streak-stats.demolab.com?user=qdexv&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=qdexv&hide_border=true" alt="qdexv contribution streak" />
 
 </div>
 
-These cards are provided by third-party services, so they may occasionally be unavailable or rate-limited.
-Beyond the Code
-I enjoy exploring creative web design, cinematic interfaces, animation, and new ways to make digital products feel memorable. I'm especially interested in the intersection of engineering and visual storytelling.
-Let's Connect
-I'm interested in learning from other developers, collaborating on useful projects, and sharing what I build.
-- GitHub: @qdexv
-- LinkedIn: Connect with me
-- Email: YOUR-EMAIL@example.com
+<sub>GitHub statistics are generated by third-party services and may occasionally be unavailable. Language statistics show repository composition, not overall skill level.</sub>
+
+## A Little More About My Work
+
+I enjoy the overlap between engineering and visual storytelling: cinematic landing pages, considered typography, subtle motion, and interfaces that feel simple without being careless underneath.
+
+I'm interested in building products that are useful first and memorable second. Ideally, both.
+
+---
+
 <div align="center">
 
-Build. Learn. Refine. Repeat.
+### Enjoying what I build?
 
-<sub>Thanks for stopping by. Explore the repositories, and feel free to share feedback.</sub>
+If something here was useful or you want to support my learning and open-source work, you can buy me a coffee. ☕
+
+<a href="https://buymeacoffee.com/qdexv">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+</a>
+
+<br /><br />
+
+**Build. Learn. Refine. Repeat.**
+
+<sub>Thanks for visiting my profile. Have a look around the repositories.</sub>
+
 </div>
